@@ -1,0 +1,29 @@
+{
+	"name": "Every Edit",
+	"version": "1.0",
+	"author": "Lucien Murray-Pitts",
+	"url": "https://www.mediawiki.org/wiki/Extension:AllContributions",
+	"descriptionmsg": "allcontributions-desc",
+	"type": "specialpage",
+	"license-name": "GPL-2.0-or-later",
+	"SpecialPages": {
+		"AllContributions": "SpecialPageAllContributions"
+	},
+	"MessagesDirs": {
+		"AllContributions": [
+			"i18n"
+		]
+	},
+	"ExtensionMessagesFiles": {
+	},
+	"AutoloadClasses": {
+        "SpecialPageAllContributions": "SpecialPageAllContributions.php",
+        "AllContributionsPager": "AllContributionsPager.php"
+	},
+	"config": {
+	},
+	"requires": {
+		"MediaWiki": ">= 1.32.0"
+	},
+	"manifest_version": 1
+}

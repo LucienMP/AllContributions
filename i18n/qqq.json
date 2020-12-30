@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lucien Murray-Pitts"
+		]
+    },
+    "allcontributions": "Special:AllContributions: Page title, also seen in Special:SpecialPages",
+    "allcontributions-desc": "{{desc|name=AllContributions|url=https://www.mediawiki.org/wiki/Extension:AllContributions}}",
+	"allcontributions-generatedoutput-title": "Special:AllContributions: Sub-title in special page."
+}
