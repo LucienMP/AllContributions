@@ -30,3 +30,12 @@ Performing checks on the JSON/PHP you can use the following:
    composer install  
    composer test  
 
+Extended reading for the Query tables/columns: 
+* Schema/type; https://www.mediawiki.org/wiki/Manual:Extension.json/Schema#type
+* Page Table; https://www.mediawiki.org/wiki/Manual:Page_table
+* Revision Table; https://www.mediawiki.org/wiki/Manual:Revision_table
+
+See also:  
+* Discussion Topic here; https://www.mediawiki.org/wiki/Topic:Svz1gicvjzg6wvo8
+
+
